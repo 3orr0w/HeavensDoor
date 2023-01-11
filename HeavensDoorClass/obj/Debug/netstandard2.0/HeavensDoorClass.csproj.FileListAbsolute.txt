@@ -1,0 +1,127 @@
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.deps.json
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorClass\bin\Debug\netstandard2.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorClass\obj\Debug\netstandard2.0\HeavensDoorClass.pdb

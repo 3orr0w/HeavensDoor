@@ -1,0 +1,6 @@
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServerClass\bin\Debug\HeavensDoorServerClass.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServerClass\bin\Debug\HeavensDoorServerClass.pdb
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServerClass\obj\Debug\HeavensDoorServerClass.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServerClass\obj\Debug\HeavensDoorServerClass.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServerClass\obj\Debug\HeavensDoorServerClass.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServerClass\obj\Debug\HeavensDoorServerClass.pdb

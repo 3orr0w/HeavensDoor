@@ -1,0 +1,51 @@
+﻿<Exception:MaterialWindow x:Class="HeavensDoor.Views.Windows.ProcedureSelectedList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HeavensDoor.Views.Windows"
+        mc:Ignorable="d"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"  
+        xmlns:Exception ="clr-namespace:MaterialDesignExtensions.Controls;assembly=MaterialDesignExtensions"
+        Title="Список процедур для сеанса" Height="430" Width="550"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}" ResizeMode="NoResize" RenderOptions.BitmapScalingMode="HighQuality" Icon="/Resourses/Spa_icon-icons.com_60006.png">
+    <StackPanel Orientation="Vertical">
+        <StackPanel Orientation="Horizontal">
+            <TextBox materialDesign:HintAssist.Hint="Поиск" Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Center" materialDesign:HintAssist.IsFloating="True" Margin="5" FontSize="16" Grid.Column="1" Grid.ColumnSpan="4" Width="535"/>
+        </StackPanel>
+        <DataGrid AutoGenerateColumns="False" CanUserSortColumns="False" VerticalScrollBarVisibility="Hidden" IsReadOnly="True" SelectedItem="{Binding SelectedProcedure}" ItemsSource="{Binding FilteredProcedure}" BorderBrush="#FF4CAF50" BorderThickness="3" Margin="5,0,5,0" Height="300">
+            <DataGrid.Columns>
+                <DataGridTextColumn
+        Binding="{Binding Name}"
+        Header="Название" Width="*" />
+                <DataGridTextColumn
+        Binding="{Binding Price}"
+        Header="Цена" Width="120"/>
+                <DataGridTextColumn
+        Binding="{Binding Time}"
+        Header="Время проведения" Width="200"/>
+            </DataGrid.Columns>
+            <DataGrid.Resources>
+                <Style BasedOn="{StaticResource {x:Type DataGridColumnHeader}}" TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FF4CAF50" />
+                    <Setter Property="Foreground" Value="White" />
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal" Margin="5" Grid.Row="1">
+            <Button x:Name="SelectProcedure" materialDesign:ButtonAssist.CornerRadius="10" Style="{StaticResource MaterialDesignRaisedButton}" Width="210" Grid.Column="2" Click="SelectProcedure_Click">
+                <StackPanel Orientation="Horizontal" Width="180">
+                    <materialDesign:PackIcon Kind="Package" Foreground="White" Height="22" Width="29"/>
+                    <TextBlock Foreground="White" Text="Выбрать процедуру" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="Back" materialDesign:ButtonAssist.CornerRadius="10" Margin="115,0,0,0" VerticalAlignment="Bottom" Style="{StaticResource MaterialDesignRaisedButton}" Click="Back_Click">
+                <StackPanel Orientation="Horizontal" Width="180">
+                    <materialDesign:PackIcon Kind="Close" HorizontalAlignment="Center" Foreground="White" VerticalAlignment="Bottom" Height="22" Width="29"/>
+                    <TextBlock Text="Отмена действия" HorizontalAlignment="Center" Foreground="White" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+    </StackPanel>
+</Exception:MaterialWindow>

@@ -1,0 +1,874 @@
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\refint\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\user35.CHENK\Desktop\Диплом 2.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\refint\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом 3.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\ref\HeavensDoorServer.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.xml
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+E:\Диплом 4.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\refint\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SergoStar\Desktop\Диплом 5.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\refint\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом 6.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\refint\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом 7.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\refint\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом 8.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\refint\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом 9.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\refint\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SergoStar\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\user452.CHENK\Desktop\Диплом 10.0\Диплом\Диплом\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SergoStar\Desktop\Диплом\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\refint\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Диплом\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\appsettings.json
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.StaticWebAssets.xml
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.exe
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.deps.json
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.json
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.runtimeconfig.dev.json
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\bin\Debug\net5.0\HeavensDoorClass.pdb
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.AssemblyReference.cache
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfoInputs.cache
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.AssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CoreCompileInputs.cache
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\scopedcss\bundle\HeavensDoorServer.styles.css
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\staticwebassets\HeavensDoorServer.StaticWebAssets.Manifest.cache
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.RazorTargetAssemblyInfo.cache
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.csproj.CopyComplete
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\refint\HeavensDoorServer.dll
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.pdb
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\HeavensDoorServer.genruntimeconfig.cache
+C:\Users\SergoStar\Desktop\Все или ничего\HeavensDoor\HeavensDoorServer\obj\Debug\net5.0\ref\HeavensDoorServer.dll
